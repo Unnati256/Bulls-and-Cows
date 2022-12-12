@@ -27,6 +27,6 @@ Every time given a guess, all the numbers that didn’t match with the given num
 
 The effective size of the array reduces with each iteration and after 6-7 rounds, we are left with only one number, which is the secret number of the opponent.
 
-#References
+# References
 1. Namanyay Goel and Aditya Garg. A Mathematical Approach to Simple Bulls and Cows 2015.
 2. John Francis. Strategies for playing MOO, or “Bulls and Cows”.
